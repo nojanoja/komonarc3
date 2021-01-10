@@ -107,7 +107,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":53,
          "x":0,
          "y":0
@@ -143,7 +143,7 @@
          "name":"schrift",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":53,
          "x":0,
          "y":0
@@ -155,7 +155,7 @@
          "name":"exit carl t\u00fcr",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":53,
          "x":0,
          "y":0
@@ -167,7 +167,7 @@
          "name":"sessel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":53,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
          "name":"abdeckung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":53,
          "x":0,
          "y":0
