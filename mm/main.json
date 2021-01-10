@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/main.son#exitcarl"
+                 "value":"main.json#exitcarl"
                 }],
          "type":"tilelayer",
          "visible":true,
