@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/komona\/main.son#exitcarl"
+                 "value":"\/main.son#exitcarl"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -89,7 +89,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -107,7 +107,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -125,7 +125,7 @@
                  "value":"rh_rc3_1.json#starttur1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -143,7 +143,7 @@
                  "value":"rh_rc3_1.json#starttur2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -161,7 +161,7 @@
                  "value":"https:\/\/menschmeier.berlin\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"https:\/\/czentrifuga.poetaster.de\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -197,7 +197,7 @@
                  "value":"https:\/\/urbanlives.it\/artisti\/alla-scoperta-delle-opere-di-tilf\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -209,7 +209,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
@@ -221,7 +221,7 @@
          "name":"w\u00e4nde1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":66,
          "x":0,
          "y":0
